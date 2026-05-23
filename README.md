@@ -5,7 +5,7 @@
 ### *A student developer building ideas into real experiences.*
 
 <a href="https://github.com/saishree19-shet">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=24292F&center=true&vCenter=true&width=500&lines=Student+Developer+👋;Dreaming+In+Ideas,+Building+In+Reality;AI+|+Web+|+Real-world+Projects;Think+•+Create+•+Impact+•+Repeat" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=24292F&center=true&vCenter=true&width=500&lines=Student+Developer;Dreaming+In+Ideas,+Building+In+Reality;AI+%7C+Web+%7C+Real-world+Projects;Think+•+Create+•+Impact+•+Repeat" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -16,32 +16,27 @@
 
 ---
 
-## About Me
+## 👩‍💻 About Me
 
 I am dedicated to the practical application of advanced engineering principles, focusing on bridging the gap between algorithmic complexity and intuitive user design.
 
-* **Technical Pursuits:** Specializing in full-stack web development, artificial intelligence, and the architecture of scalable applications.
-* **Applied Learning:** I adopt a pragmatic approach to development, consistently building independent projects to translate theoretical concepts into functional software.
-* **Professional Objective:** Driven to engineer robust, high-performance solutions that address complex problems and deliver exceptional user experiences.
+* 🧠 **Technical Pursuits:** Specializing in full-stack web development, artificial intelligence, and the architecture of scalable applications.
+* 🛠️ **Applied Learning:** I adopt a pragmatic approach to development, consistently building independent projects to translate theoretical concepts into functional software.
+* 🚀 **Professional Objective:** Driven to engineer robust, high-performance solutions that address complex problems and deliver exceptional user experiences.
 
 ---
 
-## Student Developer Snapshot
+## 💡 Student Developer Snapshot
 
-```yaml
-Current Role: Student • Builder
-Learning Style: Build → Break → Learn → Improve
-Focus Areas:
-  - AI-powered applications
-  - Full-stack web development
-  - Real-world project building
-Strength: Turning ideas into working products
-Mindset: Progress over perfection
-```
+> **🎯 Current Role:** Student • Builder
+> **🚀 Learning Style:** Build ➝ Break ➝ Learn ➝ Improve
+> **🧠 Focus Areas:** AI-powered applications • Full-stack web development • Real-world projects
+> **⚡ Core Strength:** Turning ideas into working products
+> **🌱 Mindset:** Progress over perfection
 
 ---
 
-## GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=saishree19-shet&theme=flat&no-bg=true&margin-w=15" alt="GitHub Trophies" />
@@ -49,7 +44,7 @@ Mindset: Progress over perfection
 
 ---
 
-### Connect With Me
+### 🤝 Connect With Me
 
 <p align="left">
   <a href="#"><img src="https://img.shields.io/badge/INSTAGRAM-111111?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
@@ -58,7 +53,7 @@ Mindset: Progress over perfection
   <a href="#"><img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" /></a>
 </p>
 
-### Tech Stack
+### 💻 Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,cpp,c,js,html,css,py,react,nextjs,nodejs,express,mongo,tailwind,git,github,figma,vercel,postman&perline=15" alt="Tech Stack" />
@@ -66,7 +61,7 @@ Mindset: Progress over perfection
 
 ---
 
-## GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=saishree19-shet&show_icons=true&hide_border=true" height="192px"/>
@@ -75,7 +70,7 @@ Mindset: Progress over perfection
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saishree19-shet&hide_border=true" />
 </div>
 
-### Contribution Graph
+### 🐍 Contribution Graph
 
 <div align="center">
   <picture>
