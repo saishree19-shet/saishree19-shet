@@ -1,53 +1,92 @@
-# Hi, I'm Saishree 👋
+<div align="center">
 
-Building real-world ideas through clean and meaningful code.
-*Learn • Build • Improve • Repeat*
+# Hi, I’m Saishree 👋
 
-<h3 align="center">I build useful and creative projects</h3>
+### *A student developer building ideas into real experiences.*
+
+<a href="https://github.com/saishree19-shet">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=24292F&center=true&vCenter=true&width=500&lines=Student+Developer+👋;Dreaming+In+Ideas,+Building+In+Reality;AI+|+Web+|+Real-world+Projects;Think+•+Create+•+Impact+•+Repeat" alt="Typing SVG" />
+</a>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saishree19-shet&label=Profile%20Views&color=0e75b6&style=flat" alt="saishree19-shet" />
+  <em>Think • Create • Impact • Repeat</em>
 </p>
 
-## 🧭 Developer Identity
+</div>
 
-```text
-Name    : Saishree Shet
-Role    : Student • Developer
-Focus   : Web Development | AI | Real-world Projects
-Mindset : Consistency over perfection
+---
+
+## About Me
+
+I am dedicated to the practical application of advanced engineering principles, focusing on bridging the gap between algorithmic complexity and intuitive user design.
+
+* **Technical Pursuits:** Specializing in full-stack web development, artificial intelligence, and the architecture of scalable applications.
+* **Applied Learning:** I adopt a pragmatic approach to development, consistently building independent projects to translate theoretical concepts into functional software.
+* **Professional Objective:** Driven to engineer robust, high-performance solutions that address complex problems and deliver exceptional user experiences.
+
+---
+
+## Student Developer Snapshot
+
+```yaml
+Current Role: Student • Builder
+Learning Style: Build → Break → Learn → Improve
+Focus Areas:
+  - AI-powered applications
+  - Full-stack web development
+  - Real-world project building
+Strength: Turning ideas into working products
+Mindset: Progress over perfection
 ```
 
-## 🌐 Connect With Me
+---
+
+## GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=saishree19-shet&theme=flat&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+</div>
+
+---
+
+### Connect With Me
 
 <p align="left">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/saishree-shet"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/INSTAGRAM-111111?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://linkedin.com/in/saishree-shet-222759365"><img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:saishreeshet@gmail.com"><img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" /></a>
 </p>
 
-## ⚙️ Tech Stack
+### Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,c,js,html,css,py,react,nextjs,nodejs,express,mongo,tailwind,git,github,figma,vercel,postman&perline=15" alt="Tech Stack" />
 </p>
 
-## 🐍 My Contributions
+---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saishree19-shet/saishree19-shet/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saishree19-shet/saishree19-shet/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/saishree19-shet/saishree19-shet/output/github-contribution-grid-snake.svg">
-</picture>
+## GitHub Analytics
 
-## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saishree19-shet&show_icons=true&hide_border=true" height="192px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saishree19-shet&layout=compact&hide_border=true" height="192px"/>
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saishree19-shet&hide_border=true" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saishree19-shet&show_icons=true&theme=radium" alt="Saishree's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saishree19-shet&theme=radium" alt="Saishree's GitHub Streak" />
-</p>
+### Contribution Graph
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saishree19-shet/saishree19-shet/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saishree19-shet/saishree19-shet/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/saishree19-shet/saishree19-shet/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=saishree19-shet&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
+</div>
