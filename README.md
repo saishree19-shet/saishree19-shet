@@ -1,9 +1,9 @@
 <div align="center">
 
 # Hi, I’m Saishree 👋
-### *Engineering intelligent and scalable digital experiences.*
+
 <a href="https://github.com/saishree19-shet">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=24292F&center=true&vCenter=true&width=600&lines=Software%20Developer%3BArchitecting%20Intelligent%20Web%20Applications%3BBridging%20AI%20%26%20User%20Experience%3BEngineering%20Scalable%20Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=24292F&center=true&vCenter=true&width=600&lines=Software%20Developer%3BInformation%20Science%20Student%3BFull-Stack%20Web%20Developer" alt="Typing SVG" />
 </a>
 
 <p align="center">
