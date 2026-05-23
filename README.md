@@ -5,7 +5,7 @@
 ### *A student developer building ideas into real experiences.*
 
 <a href="https://github.com/saishree19-shet">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=24292F&center=true&vCenter=true&width=500&lines=Student+Developer;Dreaming+In+Ideas,+Building+In+Reality;AI+%7C+Web+%7C+Real-world+Projects;Think+•+Create+•+Impact+•+Repeat" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=24292F&center=true&vCenter=true&width=500&lines=Student%20Developer%3BDreaming%20In%20Ideas%2C%20Building%20In%20Reality%3BAI%20%7C%20Web%20%7C%20Real-world%20Projects%3BThink%20%E2%80%A2%20Create%20%E2%80%A2%20Impact%20%E2%80%A2%20Repeat" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -28,19 +28,14 @@ I am dedicated to the practical application of advanced engineering principles, 
 
 ## 💡 Student Developer Snapshot
 
-> **🎯 Current Role:** Student • Builder
-> **🚀 Learning Style:** Build ➝ Break ➝ Learn ➝ Improve
-> **🧠 Focus Areas:** AI-powered applications • Full-stack web development • Real-world projects
-> **⚡ Core Strength:** Turning ideas into working products
-> **🌱 Mindset:** Progress over perfection
+| 🎯 **Current Role** | Student • Builder |
+| :--- | :--- |
+| 🚀 **Learning Style** | Build ➝ Break ➝ Learn ➝ Improve |
+| 🧠 **Focus Areas** | AI Applications • Full-stack Web • Real-world Projects |
+| ⚡ **Core Strength** | Turning ideas into working products |
+| 🌱 **Mindset** | Progress over perfection |
 
----
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saishree19-shet&theme=flat&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-</div>
 
 ---
 
