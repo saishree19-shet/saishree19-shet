@@ -3,7 +3,7 @@
 # Hi, I’m Saishree 👋
 
 <a href="https://github.com/saishree19-shet">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=24292F&center=true&vCenter=true&width=600&lines=Software%20Developer%3BInformation%20Science%20Student%3BFull-Stack%20Web%20Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=24292F&center=true&vCenter=true&width=600&lines=Turning%20ideas%20into%20reality%20through%20code" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -57,8 +57,8 @@ I am dedicated to the practical application of advanced engineering principles, 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saishree19-shet&show_icons=true&hide_border=true" height="192px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saishree19-shet&layout=compact&hide_border=true" height="192px"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=saishree19-shet&show_icons=true&hide_border=true" height="192px"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=saishree19-shet&layout=compact&hide_border=true" height="192px"/>
   <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=saishree19-shet&hide_border=true" />
 </div>
