@@ -1,11 +1,9 @@
 <div align="center">
 
 # Hi, I’m Saishree 👋
-
-### *A student developer building ideas into real experiences.*
-
+### *Engineering intelligent and scalable digital experiences.*
 <a href="https://github.com/saishree19-shet">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=24292F&center=true&vCenter=true&width=500&lines=Student%20Developer%3BDreaming%20In%20Ideas%2C%20Building%20In%20Reality%3BAI%20%7C%20Web%20%7C%20Real-world%20Projects%3BThink%20%E2%80%A2%20Create%20%E2%80%A2%20Impact%20%E2%80%A2%20Repeat" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=24292F&center=true&vCenter=true&width=600&lines=Software%20Developer%3BArchitecting%20Intelligent%20Web%20Applications%3BBridging%20AI%20%26%20User%20Experience%3BEngineering%20Scalable%20Solutions" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -43,7 +41,7 @@ I am dedicated to the practical application of advanced engineering principles, 
 
 <p align="left">
   <a href="#"><img src="https://img.shields.io/badge/INSTAGRAM-111111?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://linkedin.com/in/saishree-shet-222759365"><img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/saishree-shet-222759365/"><img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:saishreeshet@gmail.com"><img src="https://img.shields.io/badge/EMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="#"><img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" /></a>
 </p>
