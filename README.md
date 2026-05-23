@@ -3,7 +3,7 @@
 # Hi, I’m Saishree 👋
 
 <a href="https://github.com/saishree19-shet">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=24292F&center=true&vCenter=true&width=600&lines=Turning%20ideas%20into%20reality%20through%20code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=24292F&center=true&vCenter=true&width=600&lines=Building%20useful%20and%20creative%20projects" alt="Typing SVG" />
 </a>
 
 <p align="center">
