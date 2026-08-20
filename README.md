@@ -18,20 +18,12 @@
 
 I am dedicated to the practical application of advanced engineering principles, focusing on bridging the gap between algorithmic complexity and intuitive user design.
 
-* 🧠 **Technical Pursuits:** Specializing in full-stack web development, artificial intelligence, and the architecture of scalable applications.
-* 🛠️ **Applied Learning:** I adopt a pragmatic approach to development, consistently building independent projects to translate theoretical concepts into functional software.
-* 🚀 **Professional Objective:** Driven to engineer robust, high-performance solutions that address complex problems and deliver exceptional user experiences.
+*  **Technical Pursuits:** Specializing in full-stack web development, artificial intelligence, and the architecture of scalable applications.
+*  **Applied Learning:** I adopt a pragmatic approach to development, consistently building independent projects to translate theoretical concepts into functional software.
+* **Professional Objective:** Driven to engineer robust, high-performance solutions that address complex problems and deliver exceptional user experiences.
 
 ---
 
-## 💡 Student Developer Snapshot
-
-| 🎯 **Current Role** | Student • Builder |
-| :--- | :--- |
-| 🚀 **Learning Style** | Build ➝ Break ➝ Learn ➝ Improve |
-| 🧠 **Focus Areas** | AI Applications • Full-stack Web • Real-world Projects |
-| ⚡ **Core Strength** | Turning ideas into working products |
-| 🌱 **Mindset** | Progress over perfection |
 
 
 
