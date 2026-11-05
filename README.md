@@ -46,14 +46,6 @@ I am dedicated to the practical application of advanced engineering principles, 
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=saishree19-shet&show_icons=true&hide_border=true" height="192px"/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=saishree19-shet&layout=compact&hide_border=true" height="192px"/>
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saishree19-shet&hide_border=true" />
-</div>
 
 ### 🐍 Contribution Graph
 
